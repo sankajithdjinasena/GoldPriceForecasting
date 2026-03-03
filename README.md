@@ -1,4 +1,4 @@
-# 📈 Gold Price Time Series Dataset (2014--2025)
+# 📈 Gold Price Time Series Dataset (2014--2026)
 
 ## 📌 Overview
 
